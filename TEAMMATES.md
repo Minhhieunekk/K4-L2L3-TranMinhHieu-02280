@@ -6,7 +6,7 @@ Mã nhóm/phòng:
 
 | Họ và tên | MSSV | Vai trò lượt A | Vai trò lượt B | Vai trò lượt C |
 | --- | --- | --- | --- | --- |
-| | | | | |
+| Trần Minh Hiếu | 2A202602280 | | | |
 | | | | | |
 | | | | | |
 | | | | | |
